@@ -1,4 +1,4 @@
-import { mjdToUTCString } from '../../../utility/time';
+import { mjdToUTCString } from '../../src/utility/time';
 
 export const Layout = {
   name: 'artemis',
